@@ -16,10 +16,20 @@ There are some needed Libraries for this project to work. They are 
 - sklearn
 - matplotlib
 
-> **Installation of Libraries**
+> **Installation of numpy Library**
 ```bash
-> pip install numpy
-> pip install pandas
-> pip install -U scikit-learn
-> pip install matplotlib
+pip install numpy
+```
+> **Installation of pandas Library**
+```bash
+pip install pandas
+
+```
+> **Installation of scikit learn Library**
+```bash
+pip install -U scikit-learn
+```
+> **Installation of matplotlib Library**
+```bash
+pip install matplotlib
 ```
