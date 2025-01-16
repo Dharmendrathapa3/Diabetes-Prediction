@@ -33,3 +33,6 @@ pip install -U scikit-learn
 ```bash
 pip install matplotlib
 ```
+# Methodology
+
+![](https://github.com/Dharmendrathapa3/Diabetes-Prediction/Image/Diabeties.gif)
