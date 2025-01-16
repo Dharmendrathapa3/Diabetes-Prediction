@@ -35,4 +35,4 @@ pip install matplotlib
 ```
 # Methodology
 
-![](https://github.com/Dharmendrathapa3/Diabetes-Prediction/Image/Diabeties.gif)
+![Diabetes Predction System](https://github.com/Dharmendrathapa3/Diabetes-Prediction/blob/main/img/Diabetes.gif)
