@@ -43,14 +43,17 @@ Following library are used for traing, testing and evaluating the overal project
 
 panda
 numpy
+LabelEncoder 
+StandardScaler 
+
+
 
 ## For Visualization
 
 matplotlib
 seaborn
-LabelEncoder 
-train_test_split 
-StandardScaler 
+
+## For Performance Measures
 accuracy_score 
 precision_score  
 recall_score  
@@ -58,7 +61,7 @@ f1_score
 confusion_matrix 
 
 ## For Model traning and  Teting
-
+train_test_split 
 MLPClassifier
 LogisticRegression
 SVC
