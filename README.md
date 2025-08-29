@@ -35,7 +35,7 @@ pip install matplotlib
 ```
 # Methodology
 
-![Diabetes Predction System](https://github.com/Dharmendrathapa3/Diabetes-Prediction/blob/main/img/Diabetes.gif)
+![Diabetes Predction System](./img/Diabetes.gif)
 
 # Implementation
 Following library are used for traing, testing and evaluating the overal projects:
@@ -71,8 +71,8 @@ GaussianNB
 # Result and Analysis
 Different results are obtained based on the performance metrics (accuracy, precision, recall, and F1 score).  The results of training and testing with various machine learning algorithms are displayed in the bar graph below.
 
-![alt text](image.png)
-![alt text](image-1.png)
+![Evaluation on Traning Data](./img/image.png)
+![Evaluation on Traning Data](./img/image-1.png)
 
 # Conclusion 
 Among the several algorithms employed in this project.  Multi-Layer Perceptron (MLP) outperforms previous algorithms, achieving 91.57% and 92.29% accuracy in training and testing, respectively.
