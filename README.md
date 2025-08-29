@@ -2,7 +2,7 @@
 
 Diabetes prediction is a technique for determining whether a patient has diabetes or not. Diabetes Mellitus can be caused by age, obesity, inactivity, inherited diabetes, lifestyle, poor food, high blood pressure, and other factors. Diabetes patients are at a significant risk of developing ailments such as heart disease, renal disease, stroke, vision problems, and nerve damage.The current procedure in hospitals is to collect the necessary information for diabetes diagnosis via various tests, and then give suitable therapy depending on the diagnosis. Nowadays, we can also generalize the patient status on disease with the help of AI like Machine Learning and Deep Learning. 
 
-Here I used different machine learning algorithms for predicting and analysis of diabetes, like **Multilayer Perceptron, Logistic Regression, SVM, and naivey Bayes**. Standard Scaler is used to normalize the data and used 4017 data for the training and testing these proposed model. total data are split into 80-20 ration which contain 3213 traning data and 804 data for testing.
+This projetc different machine learning algorithms for predicting and analysis of diabetes, like **Multilayer Perceptron, Logistic Regression, SVM, and naivey Bayes**. Standard Scaler is used to normalize the data and used 4017 data for the training and testing these proposed model. total data are split into 80-20 ration which contain 3213 traning data and 804 data for testing.
 
 
 ## Prerequisite Library
